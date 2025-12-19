@@ -77,7 +77,7 @@ Before installing this dashboard, ensure you have:
 
 ## 🚀 Installation
 
-### Step 1: Configure kafka_exporter
+### Step 1: Configure kafka_exporter (With Kraft Mode)
 
 https://github.com/Elyasdj/Prometheus-Exporters-Handbook
 
