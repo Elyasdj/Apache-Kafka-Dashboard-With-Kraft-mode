@@ -2,7 +2,6 @@
 
 [![Grafana](https://img.shields.io/badge/Grafana-v12.2.1-orange?logo=grafana)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-v3.5.0-orange?logo=prometheus)](https://prometheus.io/)
-[![Kafka Exporter](https://img.shields.io/badge/Kafka_Exporter-Compatible-blue)](https://github.com/danielqsj/kafka_exporter)
 
 A comprehensive, production-ready Grafana dashboard for monitoring Apache Kafka clusters using **kafka_exporter** metrics. Get real-time insights into cluster health, consumer lag, topic performance, and consumer group behavior.
 
